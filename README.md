@@ -1,6 +1,6 @@
-# cybersecurity-footprinting-reconnaissance
-Cybersecurity reconnaissance project using Kali Linux and multiple passive footprinting tools, including WHOIS, WhatWeb, nslookup, curl, WAFW00F, and DNSRecon.
-are included in:
+
+Evidence
+The complete evidence and original screenshots are included in:
 
 Hamza_Ahmad_Week2_Cybersecurity_Footprinting_Report.pdf
 
